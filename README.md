@@ -22,8 +22,7 @@ More small tools coming — I open-source the utilities I build for my own work.
 
 ### 📬 Contact
 
-- 🌐 Website: <!-- add your site -->
-- ✉️ Email: <!-- add your email -->
+- Email: patrisanailbelova@gmail.com
 
 ---
 
